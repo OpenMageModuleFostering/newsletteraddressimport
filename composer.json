@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/NewsletterAddressImport",
+    "name": "OpenMageModuleFostering\/NewsletterAddressImport",
     "type": "magento-module",
     "license": "Academic-Free-License-(AFL)",
     "homepage": "",
     "description": "Module to import email addresses into the newsletter subscribers table.",
     "authors": [
-    {
-        "name": "Jan Wohlfeil",
-        "email": "jan.wohlfeil@digitalhoch3.de"
-    }
-],
+        {
+            "name": "Jan Wohlfeil",
+            "email": "jan.wohlfeil@digitalhoch3.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
